@@ -3,6 +3,7 @@
   "description": "Create a directory for defined path.",
   "version": "0.0.2-0",
   "main": "build",
+  "types": "build/index.d.ts",
   "devDependencies": {
     "@types/chai": "^4.0.8",
     "@types/mocha": "^2.2.44",
